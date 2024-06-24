@@ -1,0 +1,11 @@
+.product-details {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-details img {
+    max-width: 300px;
+    height: auto;
+}

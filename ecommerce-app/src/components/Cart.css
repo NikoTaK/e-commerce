@@ -1,0 +1,16 @@
+.cart {
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.cart-item {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 10px;
+}
+
+.cart-item img {
+    max-width: 100px;
+    height: auto;
+}
